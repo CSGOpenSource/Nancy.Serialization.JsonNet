@@ -1,3 +1,4 @@
 [submodule "dependencies/Nancy"]
 	path = dependencies/Nancy
-	url = git://github.com/NancyFx/Nancy.git
+	url=git://github.com/CSGOpenSource/Nancy.git
+	branch=Signed_0.22.2
